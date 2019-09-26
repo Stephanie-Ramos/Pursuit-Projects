@@ -2,26 +2,19 @@ import UIKit
 
 var str = "Hello, playground"
 
-str
 
-//
 var fellowName = "Stephanie Ramos"
-
 fellowName
 
 var cohort: String = "iOS 6.3"
+cohort = "7.0"
 
 var alphabet: Character = "c"
 
-
-cohort = "7.0"
-
+// String Interpolation
 var age = 32
-
 var ageOfFellow = 32
 var futureAge = ageOfFellow + 8
-
-//String interpolation
 print("Age of fellow 8 years from now is \(futureAge).")
 
 print(1 + 4 * 2 / 2 + 2)
@@ -37,10 +30,11 @@ i *= 2
 i %= 3
 i -= 3
 
-
 let comboIT = !true
 print(comboIT)
 false
+
+
 
 let d1 = 1.1
 let d2 = 1.1
@@ -62,4 +56,7 @@ let three = 3
 let pointOneFourOneFiveNine = 0.14159
 let pi = Double(three) + pointOneFourOneFiveNine
 print(pi)
+
+//Contants
+let pie = 3.14
 
