@@ -57,6 +57,6 @@ let pointOneFourOneFiveNine = 0.14159
 let pi = Double(three) + pointOneFourOneFiveNine
 print(pi)
 
-//Contants
+//Constants
 let pie = 3.14
 
