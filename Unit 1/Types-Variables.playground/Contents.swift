@@ -162,7 +162,7 @@ if d1 == d2 {
 print("d1 + 0.1 is \(d1 + 0.1)")
 
 if d1 + 0.1 == 1.2 {
-    print("hello, out there.")
+    print("Hello, out there.")
 } else {
   print("d1 + 0.1 is not 1.2")
 }
